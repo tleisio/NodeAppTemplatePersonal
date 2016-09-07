@@ -1,0 +1,15 @@
+{
+  "name": "template-application",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A template node express application.",
+  "dependencies": {
+    "express": "",
+    "morgan": "",
+    "body-parser": "",
+    "ejs": "",
+    "requirejs": ""
+  },
+  "devDependencies": {},
+  "repository": {}
+}
